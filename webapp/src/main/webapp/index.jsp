@@ -9,7 +9,7 @@ div {text-align: center;}
 <body>
 
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
-<h1 style="color:blue;"> Version: 1.27 - hwllo vikash first jobs </h1>
+<h1 style="color:blue;"> Version: 1.27 - tomcate deployed project </h1>
 </body>
 </html>
 
